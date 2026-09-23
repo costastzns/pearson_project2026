@@ -6,7 +6,7 @@ It's a website concept for Pearson's official website, where I put my own little
 The whole website was required to be programmed strictly with HTML, CSS, and JavaScript
 There was some AI assistance during the development of the website, specifically Claude.
 
-Αυτό είναι το έργο της Pearson που μου ανατέθηκε από το ΙΕΚ ΑΚΜΗ για το 2026. Πρόκειται για μια ιδέα σχεδιασμού (concept) για την επίσημη ιστοσελίδα της Pearson, 
+Αυτό είναι η εργασία του Pearson που μου ανατέθηκε από το ΙΕΚ ΑΚΜΗ. Πρόκειται για μια ιδέα σχεδιασμού (concept) για την επίσημη ιστοσελίδα της Pearson, 
 στην οποία έβαλα τη δική μου προσωπική πινελιά δημιουργώντας μια ελληνική εκδοχή του ιστότοπου.
 
 © 2026 Constantinos Tzanodaskalakis. All rights reserved.
